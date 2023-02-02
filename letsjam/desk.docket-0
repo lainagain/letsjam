@@ -1,0 +1,10 @@
+:~
+  title+'LetsJam'
+  info+'Jam a desk.'
+  color+0x4b.c647
+  version+[0 1 0]
+  website+'https://urbit.org'
+  license+'MIT'
+  base+'letsjam'
+  site+/letsjam
+==
